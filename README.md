@@ -55,6 +55,7 @@ We have no intention of updating the source on `angular/quickstart`.
 Discard the `.git` folder..
 ```shell
 rm -rf .git  # OS/X (bash)
+
 rd .git /S/Q # windows
 ```
 ### Delete _non-essential_ files (optional)
@@ -120,6 +121,7 @@ Shut it down manually with `Ctrl-C`.
 You're ready to write your application.
 
 ### npm scripts
+// TEST GITHUB
 
 We've captured many of the most useful commands in npm scripts defined in the `package.json`:
 
